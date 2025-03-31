@@ -1,5 +1,7 @@
 # Restauracja_Bella
 
+discord: https://discord.gg/qwuqBv6V
+
 ### Co będziemy robić?
 Stworzymy cztery pliki:
 1. **`index.html`** – strona główna z powitaniem, opiniami i kontaktem.
