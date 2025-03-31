@@ -7,8 +7,6 @@ Stworzymy cztery pliki:
 3. **`menu.html`** – osobna strona z listą pizz.
 4. **`menu.css`** – dodatkowe style specyficzne dla strony menu.
 
-Strona będzie prosta, ale ładna – użyjemy spójnych kolorów, czytelnego układu i podstawowych zasad projektowania. Wszystko wyjaśnię tak, jakbyście dopiero zaczynali przygodę z programowaniem.
-
 ---
 
 ### Krok 1: Tworzymy `index.html`
@@ -85,7 +83,7 @@ To będzie nasza strona główna. Otwórzcie edytor kodu (np. Visual Studio Code
 ---
 
 ### Krok 2: Tworzymy `style.css`
-Teraz dodamy style, żeby strona ładnie wyglądała. Stwórzcie plik `style.css` i wklejcie ten kod:
+Teraz dodamy style, żeby strona wyglądała lepiej. Stwórzcie plik `style.css`:
 
 ```css
 /* Definiujemy kolory, żeby łatwo je zmieniać */
@@ -314,7 +312,7 @@ To będzie strona z listą pizz. Stwórzcie plik `menu.html`:
 ---
 
 ### Krok 4: Tworzymy `menu.css`
-Teraz stylujemy stronę menu. Stwórzcie plik `menu.css`:
+Teraz stylujemy stronę `menu.html` Stwórzcie plik `menu.css`:
 
 ```css
 /* Styl dla sekcji menu */
@@ -394,6 +392,4 @@ Teraz stylujemy stronę menu. Stwórzcie plik `menu.css`:
   - **Prostota**: Kod jest krótki, bez zbędnych efektów – idealny dla początkujących.
   - **Nauka**: Uczycie się HTML (struktura, listy, linki) i CSS (kolory, flex, cienie).
   - **Wygląd**: Strona jest czytelna i profesjonalna dzięki spójnym kolorom i układowi.
-- **Co dalej?**: Spróbujcie otworzyć pliki w przeglądarce! Jeśli chcecie, możecie dodać więcej pizz lub zmienić kolory w `:root`.
-
-Macie pytania? Chcecie coś zmienić? Dajcie znać, a popracujemy nad tym razem!
+- **Co dalej?**: Spróbujcie otworzyć pliki w przeglądarce. Jeśli chcecie, możecie dodać więcej pizz lub zmienić kolory w `:root`.
