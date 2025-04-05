@@ -73,12 +73,14 @@ section h2 {
 
 /* Strona główna */
 #home {
-    background-color: var(--second-color);
+    background-image: url(pizza-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(images/pizza-background.jpg);
 
     h1{
         font-size: 4em;
