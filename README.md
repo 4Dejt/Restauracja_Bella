@@ -395,3 +395,32 @@ Teraz stylujemy stronę `menu.html` Stwórzcie plik `menu.css`:
   - **Nauka**: Uczycie się HTML (struktura, listy, linki) i CSS (kolory, flex, cienie).
   - **Wygląd**: Strona jest czytelna i profesjonalna dzięki spójnym kolorom i układowi.
 - **Co dalej?**: Spróbujcie otworzyć pliki w przeglądarce. Jeśli chcecie, możecie dodać więcej pizz lub zmienić kolory w `:root`.
+
+**Materiały dodatkowe:**
+
+- [MDN Web Docs – HTML](https://developer.mozilla.org/pl/docs/Web/HTML)
+- [CSS Tricks – Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [**Google Fonts**](https://fonts.google.com/) – Darmowe czcionki z możliwością osadzania w projektach .
+- [**Font Awesome**](https://fontawesome.com/) – Ikony wektorowe dostępne jako czcionka lub SVG .
+- [**HTML Colors**](https://htmlcolors.com/) – Generator kolorów HEX, RGB i nazw .
+- [**HTML Color Codes**](https://htmlcolorcodes.com/) – Narzędzie do wybierania odcieni i tworzenia palet .
+- [**Design Seeds**](https://www.design-seeds.com/) – Inspiracje kolorystyczne oparte na zdjęciach natury .
+- [**Coolors**](https://coolors.co/) – Szybki generator harmonijnych palet kolorów .
+- [**Unsplash**](https://unsplash.com/) – Darmowe wysokiej jakości zdjęcia .
+- [**Freepik**](https://pl.freepik.com/) – Wektory, zdjęcia i PSD do projektów .
+- [**Pexels**](https://www.pexels.com/) – Alternatywa dla Unsplash z szeroką biblioteką .
+- [**IconScout**](https://iconscout.com/) – Biblioteka ikon, ilustracji i animacji .
+- [**Flaticon**](https://www.flaticon.com/) – Darmowe ikony w formatach SVG i PNG .
+- [**CSS Animation Rocks**](https://cssanimation.rocks/) – Tutoriale i przykłady animacji CSS .
+- [**Get Waves**](https://getwaves.io/) – Generator falowych kształtów SVG .
+- [**Animista**](https://animista.net/) – Gotowe snippet-y animacji CSS .
+- [**CodePen**](https://codepen.io/) – Platforma do testowania kodu HTML/CSS/JS online .
+- [**Chrome DevTools**](https://developer.chrome.com/docs/devtools/) – Narzędzia wbudowane w przeglądarkę do debugowania .
+- [**Lorem Ipsum**](https://www.lipsum.com/) – Tekst zastępczy do mockupów .
+- [**CSS Gradient**](https://cssgradient.io/) – Twórz gradienty i kopiuj gotowy kod CSS .
+- [**Responsively**](https://responsively.app/) – Testuj responsywność strony na wielu urządzeniach .
+- [**GitHub**](https://github.com/) – Platforma do hostowania kodu i współpracy .
+- [**freeCodeCamp**](https://www.freecodecamp.org/) – Darmowe kursy programowania (wspomniane w wynikach ).
+- [**MDN Web Docs**](https://developer.mozilla.org/) – Dokumentacja technologii webowych .
+- [**Awwwards**](https://www.awwwards.com/) – Galeria najlepszych projektów stron .
+- [**Dribbble**](https://dribbble.com/) – Platforma dla projektantów do dzielenia się pracą .
