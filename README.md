@@ -1,6 +1,7 @@
 # Restauracja_Bella
 
 discord: https://discord.gg/qwuqBv6V
+notion: https://www.notion.so/Pizza-Bella-strona-internetowa-1cff0bd483e780e7aa99fac477192d2c?pvs=4
 
 ### Co będziemy robić?
 Stworzymy cztery pliki:
