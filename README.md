@@ -38,19 +38,22 @@ To będzie nasza strona główna. Otwórzcie edytor kodu (np. Visual Studio Code
     </header>
 
     <section id="home">
-        <h2>Najlepsza pizza w mieście!</h2>
-        <p>Zamów już dziś i spróbuj naszych wyjątkowych smaków.</p>
-        <a href="menu.html" class="button">Zobacz Menu</a>
+        <div class="content-home">
+            <h1>Najlepsza pizza w mieście!</h1>
+            <p>Zamów już dziś i spróbuj naszych wyjątkowych smaków.</p>
+            <a href="menu.html" class="button">Zobacz Menu</a>
+        </div>
     </section>
 
     <section id="reviews">
-        <h2>Co mówią nasi klienci</h2>
+        <h1 class="title">Co mówią nasi klienci</h1>
         <ul class="review-list">
             <li>
                 <h2>Jan Kowalski</h2>
                 <h3>Świetna pizza i miła obsługa!</h3>
                 <p>Pizzeria Bella to jedno z najlepszych miejsc w mieście! Ciasto jest idealnie chrupiące, składniki świeże, a sos pomidorowy ma wyrazisty smak. Obsługa bardzo sympatyczna i szybka. Zdecydowanie będę tu wracać!</p> 
                 <h1>⭐⭐⭐⭐⭐</h1>
+            </li>
             <li>
                 <h2>Anna Nowak</h2>
                 <h3>Najlepsza pepperoni w Krakowie!</h3>
@@ -68,13 +71,17 @@ To będzie nasza strona główna. Otwórzcie edytor kodu (np. Visual Studio Code
 
     <section id="contact">
         <h2>Kontakt</h2>
-        <p>Email: kontakt@pizzeriabella.pl</p>
-        <p>Telefon: 123-456-789</p>
+        <p>Email: 
+            <a href="mailto:kontakt@pizzabella.pl">kontakt@pizzabella.pl</a>
+        </p>
+        <p>Telefon: 
+            <a href="tel:123-456-789">123-456-789</a>
+        </p>
         <p>Adres: Dobrego Pasterza 99, Kraków</p>
     </section>
 
     <footer>
-        <p>© 2025 Pizzeria Bella. Wszystkie prawa zastrzeżone.</p>
+        <p>&copy; 2025 Pizzeria Bella. Wszystkie prawa zastrzeżone.</p>
     </footer>
 </body>
 </html>
