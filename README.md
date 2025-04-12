@@ -46,9 +46,23 @@ To będzie nasza strona główna. Otwórzcie edytor kodu (np. Visual Studio Code
     <section id="reviews">
         <h2>Co mówią nasi klienci</h2>
         <ul class="review-list">
-            <li>"Najlepsza pizza, jaką jadłem!" - Jan Kowalski ⭐⭐⭐⭐⭐</li>
-            <li>"Świetna obsługa i pyszne jedzenie." - Anna Nowak ⭐⭐⭐⭐⭐</li>
-            <li>"Smak jak we Włoszech!" - Piotr Malinowski ⭐⭐⭐⭐⭐</li>
+            <li>
+                <h2>Jan Kowalski</h2>
+                <h3>Świetna pizza i miła obsługa!</h3>
+                <p>Pizzeria Bella to jedno z najlepszych miejsc w mieście! Ciasto jest idealnie chrupiące, składniki świeże, a sos pomidorowy ma wyrazisty smak. Obsługa bardzo sympatyczna i szybka. Zdecydowanie będę tu wracać!</p> 
+                <h1>⭐⭐⭐⭐⭐</h1>
+            <li>
+                <h2>Anna Nowak</h2>
+                <h3>Najlepsza pepperoni w Krakowie!</h3>
+                <p>Zamówiłem pizzę pepperoni i byłem zachwycony – pikantne salami, doskonały ser i cienkie, ale sprężyste ciasto. Czuć, że używają wysokiej jakości składników. Polecam każdemu miłośnikowi prawdziwej włoskiej pizzy!</p> 
+                <h1>⭐⭐⭐⭐⭐</h1>               
+            </li>
+            <li>
+                <h2>Piotr Malinowski</h2>
+                <h3>Super klimat i pyszne jedzenie.</h3>
+                <p>Restauracja ma świetną atmosferę, idealne miejsce na spotkanie z przyjaciółmi. Pizza Quattro Stagioni była rewelacyjna, a deser tiramisu wręcz rozpływał się w ustach. Jedno z moich ulubionych miejsc na pizzę w Krakowie!</p>
+                <h1>⭐⭐⭐⭐⭐</h1>
+            </li>
         </ul>
     </section>
 
