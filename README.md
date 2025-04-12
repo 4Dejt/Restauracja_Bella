@@ -46,9 +46,9 @@ To będzie nasza strona główna. Otwórzcie edytor kodu (np. Visual Studio Code
     <section id="reviews">
         <h2>Co mówią nasi klienci</h2>
         <ul class="review-list">
-            <li>"Najlepsza pizza, jaką jadłem!" - Jan Kowalski</li>
-            <li>"Świetna obsługa i pyszne jedzenie." - Anna Nowak</li>
-            <li>"Smak jak we Włoszech!" - Piotr Malinowski</li>
+            <li>"Najlepsza pizza, jaką jadłem!" - Jan Kowalski ⭐⭐⭐⭐⭐</li>
+            <li>"Świetna obsługa i pyszne jedzenie." - Anna Nowak ⭐⭐⭐⭐⭐</li>
+            <li>"Smak jak we Włoszech!" - Piotr Malinowski ⭐⭐⭐⭐⭐</li>
         </ul>
     </section>
 
